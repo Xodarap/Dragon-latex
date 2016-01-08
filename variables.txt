@@ -1,0 +1,80 @@
+@Version=Plato-UTF8
+\noise\?
+a\\var alfa	
+b\\var bravo	
+c\\var charlie	
+d\\var delta	
+e\\var echo	
+f\\var foxtrot	
+g\\var golf	
+h\\var hotel	
+i\\var india	
+j\\var juliet	
+k\\var kilo	
+l\\var lima	
+m\\var mike	
+n\\var november
+o\\var oscar	
+p\\var papa	
+q\\var quebec	
+r\\var romeo	
+s\\var sierra	
+t\\var tango	
+u\\var uniform	
+v\\var victor	
+w\\var whiskey	
+x\\var xray	
+y\\var yankee	
+z\\var zulu	
+$a$\\solo alfa	
+$b$\\solo bravo	
+$c$\\solo charlie	
+$d$\\solo delta	
+$e$\\solo echo	
+$f$\\solo foxtrot	
+$g$\\solo golf	
+$h$\\solo hotel	
+$i$\\solo india	
+$j$\\solo juliet	
+$k$\\solo kilo	
+$l$\\solo lima	
+$m$\\solo mike	
+$n$\\solo november
+$o$\\solo oscar	
+$p$\\solo papa	
+$q$\\solo quebec	
+$r$\\solo romeo	
+$s$\\solo sierra	
+$t$\\solo tango	
+$u$\\solo uniform	
+$v$\\solo victor	
+$w$\\solo whiskey	
+$x$\\solo xray	
+$y$\\solo yankee	
+$z$\\solo zulu	
+$A$\\cap solo alfa	
+$B$\\cap solo bravo	
+$C$\\cap solo charlie	
+$D$\\cap solo delta	
+$E$\\cap solo echo	
+$F$\\cap solo foxtrot	
+$G$\\cap solo golf	
+$H$\\cap solo hotel	
+$I$\\cap solo india	
+$J$\\cap solo juliet	
+$K$\\cap solo kilo	
+$L$\\cap solo lima	
+$M$\\cap solo mike	
+$N$\\cap solo november
+$O$\\cap solo oscar	
+$P$\\cap solo papa	
+$Q$\\cap solo quebec	
+$R$\\cap solo romeo	
+$S$\\cap solo sierra	
+$T$\\cap solo tango	
+$U$\\cap solo uniform	
+$V$\\cap solo victor	
+$W$\\cap solo whiskey	
+$X$\\cap solo xray	
+$Y$\\cap solo yankee	
+$Z$\\cap solo zulu	

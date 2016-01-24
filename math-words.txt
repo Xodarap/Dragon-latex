@@ -1,0 +1,30 @@
+@Version=Plato-UTF8
+\noise\?
+(\\function paren
+()\\empty function
+bijection
+corollary
+decidability
+detexify\\detechify
+epimorphic
+epimorphism
+equiv
+geq
+homomorphic
+homomorphism
+leq
+logequiv\\Lodge equiv
+mathbb\\math BB
+monomorphic
+monomorphism
+neg
+ponens
+psi\\tech psi
+satisfiability
+subseteq\\subset EQ
+subsubsection
+qed
+texstudio\\tech studio
+varphi\\var fee
+vdash\\v dash
+vee\\tech vee

@@ -2,7 +2,10 @@
 \noise\?
 (\\function paren
 ()\\empty function
+0-ary\\zero ary
+approx\\a prox
 bijection
+cap\\tech intersect
 corollary
 decidability
 detexify\\detechify
@@ -12,9 +15,15 @@ equiv
 geq
 homomorphic
 homomorphism
+implicant
 leq
 logequiv\\Lodge equiv
 mathbb\\math BB
+mathbf\\math BF
+mathcal
+mathfrak
+mathit\\math IT
+mathrm\\math RM
 monomorphic
 monomorphism
 neg
@@ -23,8 +32,11 @@ psi\\tech psi
 satisfiability
 subseteq\\subset EQ
 subsubsection
+supset\\soup set
+supseteq\\soup set EQ
 qed
 texstudio\\tech studio
 varphi\\var fee
+varphi\\var phi
 vdash\\v dash
 vee\\tech vee
